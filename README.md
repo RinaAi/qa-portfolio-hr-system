@@ -21,10 +21,10 @@
 
 | Документ | Описание | Ссылка |
 |----------|----------|--------|
-| **Notion Dashboard** | Интерактивная база тест-кейсов, чек-листов и баг-репортов | [Открыть в Notion](https://app.notion.com/p/QA-Portfolio-HR-System-QA-Compass-2c99eb2cc2e983fca70b01f227971ba7) |
+| **Test Plan** | План тестирования модуля «Моя информация» | [test-plan.md](./docs/test-plan.md) |
 | **Матрица трассировки (RTM)** | 100% покрытие всех 66 требований SRS v2.1 | [traceability-matrix.md](./docs/traceability-matrix.md) |
 | **Спецификация требований** | Исходный документ SRS v2.1 | [SRS-HR-System-v2.1.pdf](./docs/SRS-HR-System-v2.1.pdf) |
-
+| **Notion Dashboard** | Тест-кейсы, чек-листы и баг-репорты | [Открыть в Notion](https://app.notion.com/p/QA-Portfolio-HR-System-QA-Compass-2c99eb2cc2e983fca70b01f227971ba7) |
 ---
 
 ## 🚀 Выполненные работы
@@ -53,11 +53,8 @@
 qa-portfolio-hr-system/
 ├── README.md                          ← Главная страница проекта
 ├── docs/
-│   ├── SRS-HR-System-v2.1.pdf         ← Спецификация требований
-│   └── traceability-matrix.md         ← Матрица трассировки (RTM)
-├── test-cases/                        ← Тест-кейсы (в процессе наполнения)
-│   ├── TC-ATT-04-file-size-limit.md
-│   ├── TC-DP-04-dynamic-field-other.md
-│   └── ...
-└── bug-reports/                       ← Баг-репорты (в процессе наполнения)
-    └── BUG-01-....md
+│   ├── test-plan.md                   ← План тестирования
+│   ├── traceability-matrix.md         ← Матрица трассировки (RTM)
+│   └── SRS-HR-System-v2.1.pdf         ← Спецификация требований
+├── test-cases/                        ← Примеры тест-кейсов (в процессе)
+└── bug-reports/                       ← Примеры баг-репортов (в процессе)
