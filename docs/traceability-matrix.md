@@ -1,7 +1,5 @@
-# 📊 Матрица трассировки требований (Requirements Traceability Matrix — RTM)
-
+# 📊 Матрица трассировки требований
 **Проект:** QA Portfolio — HR System (Модуль «Моя информация»)  
-**Источник сценариев:** QA Compass (`test-scenarios-hr-system-qa-compass.xlsx`)  
 **Версия спецификации:** SRS v2.1  
 **Покрытие:** 100% (66/66 требований)
 
