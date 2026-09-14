@@ -44,7 +44,7 @@
 | Система      | https://hr.qacompass.ru                       |
 | Роль         | ESS                                           |
 | Браузеры     | Chrome (основной); Firefox, Edge - по возможности |
-| Инструменты  | Chrome DevTools, Notion                       |
+| Инструменты  | Notion                                        |
 
 ## 5. Критерии входа
 
