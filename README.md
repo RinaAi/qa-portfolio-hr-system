@@ -15,7 +15,7 @@
 | Test Plan | [test-plan.md](./docs/test-plan.md) |
 | Test Summary | [test-summary.md](./docs/test-summary.md) |
 | SRS v2.1 | [SRS-HR-System-v2.1.pdf](./docs/SRS-HR-System-v2.1.pdf) |
-| Тест-кейсы и баг репорты | [Открыть базу](https://app.notion.com/p/QA-Portfolio-HR-System-QA-Compass-2c99eb2cc2e983fca70b01f227971ba7) |
+| Тест-кейсы и баг-репорты | [Открыть базу](https://app.notion.com/p/QA-Portfolio-HR-System-QA-Compass-2c99eb2cc2e983fca70b01f227971ba7) |
 
 ## Результаты
 
