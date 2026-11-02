@@ -15,7 +15,10 @@
 | Test Plan | [test-plan.md](./docs/test-plan.md) |
 | Test Summary | [test-summary.md](./docs/test-summary.md) |
 | SRS v2.1 | [SRS-HR-System-v2.1.pdf](./docs/SRS-HR-System-v2.1.pdf) |
-| Тест-кейсы и баг-репорты | [Открыть базу](https://app.notion.com/p/QA-Portfolio-HR-System-QA-Compass-2c99eb2cc2e983fca70b01f227971ba7) |
+| Тест-кейсы и баг-репорты (Notion) | [Открыть базу](https://app.notion.com/p/QA-Portfolio-HR-System-QA-Compass-2c99eb2cc2e983fca70b01f227971ba7) |
+| Полный отчёт (PDF) | [QA-Portfolio-HR-System-Full.pdf](./docs/QA-Portfolio-HR-System-Full.pdf) |
+
+> **Основная база** тест-кейсов и баг-репортов ведётся в **Notion**. Если Notion недоступен — все кейсы и дефекты есть в [PDF-отчёте](./docs/QA-Portfolio-HR-System-Full.pdf).
 
 ## Результаты
 
@@ -45,5 +48,6 @@ qa-portfolio-hr-system/
 └── docs/
     ├── test-plan.md
     ├── test-summary.md
-    └── SRS-HR-System-v2.1.pdf
+    ├── SRS-HR-System-v2.1.pdf
+    └── QA-Portfolio-HR-System-Full.pdf
 ```
